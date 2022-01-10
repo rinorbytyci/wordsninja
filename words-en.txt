@@ -1577,7 +1577,6 @@ matches
 rocks
 gironde
 save
-rose
 beat
 pyr
 copy
@@ -4334,7 +4333,7 @@ helpful
 mad
 sierra
 medals
-wait
+waitrose
 pollution
 deals
 matrix
